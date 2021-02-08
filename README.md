@@ -3,7 +3,7 @@
 Implemented a Datawarehouse for reporting and analysing the geographical wise revenue across two companies (FudgeMart
 and Fudgeflix) using ETL operations.
 
-Content:
+## Content:
 
 •	Data Exploration
 •	Business Case
