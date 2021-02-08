@@ -33,7 +33,7 @@ We pulled the data related to the business case from both database into a single
 # Business Intelligence Visualizations
 Used Power BI for visualizations to get Summarized insights from the data
 
-#Insights
+# Insights
 Quarterly and yearly revenue, departmental revenues, cities with more sales, highest spending months and
 regions with more revenue
 
