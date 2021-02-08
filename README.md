@@ -12,7 +12,10 @@ and Fudgeflix) using ETL operations.
 •	Dashboards using Power BI
 •	Insights
 
-# Business Case - Revenue Streams across different geographical locations
+#### Data Exploration: We are presented with data from Fudgemart, inc. which has 
+two subsidary companies called FudgeMart and FudgeFlix
+
+#### Business Case - Revenue Streams across different geographical locations
 
 
 
